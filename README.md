@@ -1,0 +1,4 @@
+Corpus
+======
+
+Generative text generator.
